@@ -2,6 +2,7 @@
 Heat map to cehck number of decease people over time in Chile
 
 - Using popular library seaborn
+- Using open databse from https://github.com/MinCiencia/Datos-COVID19
 
 Example of the result
 
